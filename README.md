@@ -40,6 +40,10 @@ The dashboard integrates data from three tables:
 The dashboard solves the following problem statements:
 
 1. **KPI Calculation**: Calculates total sales, total profit, total quantity, number of orders, and profit margin.
+
+![image](https://github.com/user-attachments/assets/d3822aa8-bbd4-4e70-afab-3babceffac0a)
+
+
 2. **Sales and Profit Analysis**: Provides a detailed analysis of sales and profit across different regions, markets, and segments.
 3. **Category-wise Profit**: Displays profit contribution by different product categories.
 4. **Segment-wise Sales Share**: Shows the share of sales across different customer segments.
@@ -107,3 +111,6 @@ A dynamic KPI table was created to streamline the dashboard’s metrics:
 
 ## Conclusion
 This dynamic retail dashboard offers a comprehensive solution for analyzing retail data, providing valuable insights into sales, profitability, and customer behavior. By focusing on the key metrics and offering a user-friendly interface, the dashboard is an effective tool for retail managers to make data-driven decisions. Future enhancements like return analysis and market analysis will further strengthen its capabilities, making it an indispensable asset for retail businesses.
+
+
+![image](https://github.com/user-attachments/assets/88bcdcf8-35cd-4737-8c84-94a47881da20)
