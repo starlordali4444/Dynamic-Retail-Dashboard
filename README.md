@@ -45,12 +45,25 @@ The dashboard solves the following problem statements:
 
 
 2. **Sales and Profit Analysis**: Provides a detailed analysis of sales and profit across different regions, markets, and segments.
+![image](https://github.com/user-attachments/assets/0a9ee4ac-0f14-4990-88ac-21f4f0382a22)
+
 3. **Category-wise Profit**: Displays profit contribution by different product categories.
+![image](https://github.com/user-attachments/assets/6b308cf2-2275-4157-b7a5-efc1dca788cd)
+
 4. **Segment-wise Sales Share**: Shows the share of sales across different customer segments.
+![image](https://github.com/user-attachments/assets/3bbacc12-bb62-4b9b-b561-fc2df6a98a68)
+
 5. **Sales by Country**: Highlights sales distribution by country.
+![image](https://github.com/user-attachments/assets/2e5d07f3-4486-4f3d-ac57-dd0d2d08a7d2)
+
 6. **Top 5 Subcategories**: Identifies subcategories with the highest sales.
+![image](https://github.com/user-attachments/assets/183f209f-3b16-406f-866a-79417f1e5060)
+
 7. **Bottom 5 Subcategories**: Highlights subcategories with lower sales.
+![image](https://github.com/user-attachments/assets/4d31996a-9df2-4105-b7e5-bb2b2da02437)
+
 8. **Yearly Sales Trend**: Visualizes sales trends over time to identify seasonal patterns.
+![image](https://github.com/user-attachments/assets/22e07dee-4543-49db-b95c-0266e6048d15)
 
 ### Next Steps
 The future enhancements for this project include:
